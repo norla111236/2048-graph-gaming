@@ -1,0 +1,14 @@
+﻿Build started 4/29/2018 2:19:38 PM.
+     1>Project "D:\users\wingo\teaching\ObjectOrientedProgramming\assignments\hw03_201802\OOP_HW03_201804_Template_NET2010\asm.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\Irvine /I.\inc /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp
+         mySystem_ImageEditor.cpp
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(26): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(94): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(95): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(106): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Done Building Project "D:\users\wingo\teaching\ObjectOrientedProgramming\assignments\hw03_201802\OOP_HW03_201804_Template_NET2010\asm.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
